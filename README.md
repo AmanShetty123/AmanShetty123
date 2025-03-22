@@ -52,24 +52,10 @@
   <a href="https://x.com/SillyCoder7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter logo" />
   </a>
+  
 </div>
-<<<<<<< HEAD
-=======
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ammanshetty/ammanshetty/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ammanshetty/ammanshetty/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ammanshetty/ammanshetty/output/github-snake.svg" />
-</picture>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/AmanShetty123/count.svg?"  />
 </div>
 
 ###
-
->>>>>>> 733ea2c809d258452efbf71c75992ea2f89d0902
