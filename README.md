@@ -24,5 +24,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanshetty123&show_icons=true&locale=en&layout=compact" alt="amanshetty123" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanshetty123&" alt="amanshetty123" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanshetty123&" alt="Click To View My Stats!!" /></p>
 
